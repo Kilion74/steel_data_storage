@@ -1,0 +1,8 @@
+scrapy crawl example -o truba-otsinkovannaya.json
+scrapy crawl example -o krug-otsinkovannyj.json
+scrapy crawl example -o prutok-otsinkovannyj.json
+scrapy crawl example -o krug-otsinkovannyj.csv
+scrapy crawl example -o datas.csv
+krug-otsinkovannyj/?page=48
+prutok-otsinkovannyj/?page=
+truba-otsinkovannaya/?page=909
